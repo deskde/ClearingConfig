@@ -10,6 +10,11 @@
 "TransactionDate":0,     
 "TypeString1":0,      
 "Amount":0,      
-"User":0,      
+"Amount1":27,
+"Amount2":28,
+"Amount3":31,
+"Amount4":0,
+"Currencycode":11,
+"User":0,  
 "Description":0
 }
