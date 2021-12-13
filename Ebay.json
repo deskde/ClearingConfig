@@ -1,6 +1,6 @@
 {
 "PlugIn":"Ebay",     
-"Version":1,
+"Version":3,
 "Delimiter":";",  
 "DataHeaderLine":12,     
 "DataStartLine":13,            
