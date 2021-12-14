@@ -1,9 +1,9 @@
 {
 "PlugIn":"Ebay",     
-"Version":4,
+"Version":5,
 "Delimiter":";",  
-"DataHeaderLine":12,     
-"DataStartLine":13,            
+"DataHeaderLine":11,     
+"DataStartLine":12,            
 "TransactionID":3,      
 "TransactionID2":3,      
 "OrderNumber":2,     
