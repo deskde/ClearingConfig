@@ -1,9 +1,1 @@
-{"PlugIn":"PayPal","Version":1,"Delimiter":",","DataHeaderLine":0,"DataStartLine":1,"TransactionID":9,"TransactionID2":16,"OrderNumber":9,"TransactionDate":0,
- "TypeString1":3,
- "Amount":5,
- "Amount1":6,
- "Amount2":-1,
- "Amount3":-1,
- "Amount4":-1,
- "Amount5":-1,
-  "Currencycode":4,"User":11,"Description":3}
+{"PlugIn":"PayPal","Version":1,"Delimiter":",","DataHeaderLine":0,"DataStartLine":1,"TransactionID":9,"TransactionID2":16,"OrderNumber":9,"TransactionDate":0,"TypeString1":3,"Amount":9,"Amount1":6,"Amount2":-1,"Amount3":-1,"Amount4":-1,"Currencycode":4,"User":11,"Description":3}
