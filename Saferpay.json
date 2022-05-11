@@ -1,1 +1,1 @@
-{"PlugIn":"saferpay","Version":2,"Delimiter":";","DataHeaderLine":0,"DataStartLine":1,"TransactionID":9,"TransactionID2":9,"OrderNumber":9,"TransactionDate":0,"TypeString1":7,"Amount":19,"Amount1":21,"Amount2":-1,"Amount3":-1,"Amount4":-1,"Currencycode":20,"User":-1,"Description":9}
+{"PlugIn":"saferpay","Version":3,"Delimiter":";","DataHeaderLine":0,"DataStartLine":1,"TransactionID":9,"TransactionID2":9,"OrderNumber":9,"TransactionDate":0,"TypeString1":7,"Amount":19,"Amount1":21,"Amount2":-1,"Amount3":-1,"Amount4":-1,"Amount5":-1,"Currencycode":20,"User":-1,"Description":9}
