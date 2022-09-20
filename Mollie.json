@@ -1,6 +1,6 @@
 {"PlugIn":"Mollie",
 "Version":1,
-"Delimiter":";",
+"Delimiter":",",
 "DataHeaderLine":0,
 "DataStartLine":1,
 "TransactionID":5,
