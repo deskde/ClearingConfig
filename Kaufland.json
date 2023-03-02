@@ -2,7 +2,7 @@
  "Version":1,
  "Delimiter":";",
  "DataHeaderLine":1,
- "DataStartLine":2,
+ "DataStartLine":1,
  "TransactionID":2,
  "TransactionID2":-1,
  "OrderNumber":-1,
