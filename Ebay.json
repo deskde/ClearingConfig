@@ -1,1 +1,1 @@
-{"PlugIn":"Ebay","Version":10,"Delimiter":",","DataHeaderLine":10,"DataStartLine":11,"TransactionID":3,"TransactionID2":3,"OrderNumber":2,"TransactionDate":0,"TypeString1":1,"Amount":33,"Amount1":27,"Amount2":28,"Amount3":30,"Amount4":10,"Amount5":29,"Currencycode":11,"User":5,"Description":35}
+{"PlugIn":"Ebay","Version":11,"Delimiter":";","DataHeaderLine":10,"DataStartLine":11,"TransactionID":3,"TransactionID2":3,"OrderNumber":2,"TransactionDate":0,"TypeString1":1,"Amount":33,"Amount1":27,"Amount2":28,"Amount3":30,"Amount4":10,"Currencycode":11,"User":5,"Description":35}
