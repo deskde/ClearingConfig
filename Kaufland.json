@@ -1,5 +1,5 @@
 {"PlugIn":"Kaufland",
- "Version":4,
+ "Version":5,
  "Delimiter":";",
  "DataHeaderLine":1,
  "DataStartLine":1,
@@ -13,7 +13,7 @@
  "Amount1":12,
  "Amount2":12,
  "Amount3":13,
- "Amount4":-1,
+ "Amount4":4,
  "Currencycode":-1,
  "User":26,
  "Description":1}
