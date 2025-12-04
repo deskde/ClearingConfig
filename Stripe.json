@@ -8,7 +8,7 @@
    "TransactionID2":10,
    "OrderNumber":2,
    "TransactionDate":0,
-   "TypeString1":1,
+   "TypeString1":11,
    "Amount":8,
    "Amount1":9,
    "Amount2":0,
@@ -16,6 +16,6 @@
    "Amount4":0,
    "Amount5":0,
    "Currencycode":14,
-   "User":0,
+   "User":19,
    "Description":3
 }
