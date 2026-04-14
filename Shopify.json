@@ -1,9 +1,9 @@
 {
    "PlugIn":"Shopify",
-   "Version":1,
+   "Version":2,
    "Delimiter":",",
    "DataHeaderLine":1,
-   "DataStartLine":2,
+   "DataStartLine":1,
    "TransactionID":12,
    "TransactionID2":2,
    "OrderNumber":2,
