@@ -1,6 +1,6 @@
 {
    "PlugIn":"Shopify",
-   "Version":2,
+   "Version":3,
    "Delimiter":",",
    "DataHeaderLine":1,
    "DataStartLine":1,
