@@ -1,0 +1,23 @@
+{
+  "PlugIn": "Unzer",
+  "Version": 1,
+  "Delimiter": ";",
+  "DataHeaderLine": 1,
+  "DataStartLine": 1,
+  "TransactionID": 17,
+  "TransactionID2": 16,
+  "OrderNumber": -1,
+  "TransactionDate": 2,
+  "TypeString1": 6,
+  "TypeString2": 7,
+  "TypeString3": 40,
+  "Amount": 33,
+  "Amount1": 45,
+  "Amount2": 47,
+  "Amount3": 39,
+  "Amount4": -1,
+  "Amount5": -1,
+  "Currencycode": 32,
+  "User": -1,
+  "Description": -1
+}
